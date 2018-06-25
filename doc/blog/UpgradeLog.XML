@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Myblog">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Myblog.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Myblog.suo">
+</Property><Property Name="Date" Value="2010年5月23日">
+</Property><Property Name="Time" Value="0:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Myblog.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\Myblog.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Myblog.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\Myblog.suo">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyblogModels\MyBlogModels.csproj">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyblogModels\MyBlogModels.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\Article.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyblogModels\Article.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\Comment.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyblogModels\Comment.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyblogModels\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\User.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyblogModels\User.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\MyBlogDAL.csproj">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\MyBlogDAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\ArticleService.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\ArticleService.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\CommentService.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\CommentService.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\DBHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\DBHelper.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\UserService.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogDAL\UserService.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogBLL\MyBlogBLL.csproj">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogBLL\MyBlogBLL.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\ArticleManager.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogBLL\ArticleManager.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\CommentManager.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogBLL\CommentManager.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogBLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\UserManager.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\51CTO下载-ASP[1].NET个人博客管理系统\MyBlog\Backup\MyBlogBLL\UserManager.cs">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Myblog.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Myblog.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyBlogModels" Source="MyblogModels\MyBlogModels.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyBlogDAL" Source="MyBlogDAL\MyBlogDAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyBlogBLL" Source="MyBlogBLL\MyBlogBLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

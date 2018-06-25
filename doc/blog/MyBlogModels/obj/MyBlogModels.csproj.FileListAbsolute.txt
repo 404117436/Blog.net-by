@@ -1,0 +1,5 @@
+D:\MyBlog\MyblogModels\bin\Debug\MyblogModels.dll
+D:\MyBlog\MyblogModels\bin\Debug\MyblogModels.pdb
+D:\MyBlog\MyblogModels\obj\Debug\ResolveAssemblyReference.cache
+D:\MyBlog\MyblogModels\obj\Debug\MyblogModels.dll
+D:\MyBlog\MyblogModels\obj\Debug\MyblogModels.pdb

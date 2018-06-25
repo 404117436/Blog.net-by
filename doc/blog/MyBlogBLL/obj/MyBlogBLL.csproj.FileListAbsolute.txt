@@ -1,0 +1,9 @@
+D:\MyBlog\MyBlogBLL\bin\Debug\MyBlogBLL.dll
+D:\MyBlog\MyBlogBLL\bin\Debug\MyBlogBLL.pdb
+D:\MyBlog\MyBlogBLL\bin\Debug\MyBlogDAL.dll
+D:\MyBlog\MyBlogBLL\bin\Debug\MyblogModels.dll
+D:\MyBlog\MyBlogBLL\bin\Debug\MyBlogDAL.pdb
+D:\MyBlog\MyBlogBLL\bin\Debug\MyblogModels.pdb
+D:\MyBlog\MyBlogBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\MyBlog\MyBlogBLL\obj\Debug\MyBlogBLL.dll
+D:\MyBlog\MyBlogBLL\obj\Debug\MyBlogBLL.pdb

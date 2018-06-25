@@ -1,0 +1,347 @@
+* {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND: url(main_bg_tall.png) #ffffff repeat-x; FONT: 11px/140% Verdana, Tahoma, sans-serif; COLOR: #666
+}
+A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #43a707; TEXT-DECORATION: none
+}
+TEXTAREA {
+	FONT: 12px Verdana, Tahoma, sans-serif
+}
+INPUT {
+	FONT: 12px Verdana, Tahoma, sans-serif
+}
+SELECT {
+	FONT: 12px Verdana, Tahoma, sans-serif
+}
+TEXTAREA {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; OVERFLOW: auto; LINE-HEIGHT: 150%; PADDING-TOP: 4px
+}
+TD {
+	FONT: 12px/160% Verdana, Tahoma, sans-serif; COLOR: #000
+}
+.myspan {
+	FLOAT: right
+}
+INPUT {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #fff; PADDING-BOTTOM: 3px; COLOR: #000; PADDING-TOP: 3px
+}
+FIELDSET {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; LINE-HEIGHT: 25px; PADDING-TOP: 10px
+}
+HR {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; MARGIN: 5px 0px; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; HEIGHT: 1px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+123 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; LINE-HEIGHT: 25px; PADDING-TOP: 10px
+	
+}background:url("images/style01/menu_bg.gif") repeat center;
+#samheader {
+	BACKGROUND: url(beta.jpg) repeat-x; HEIGHT: 62px
+}
+#samenu {
+	BACKGROUND: url(topmy.jpg) no-repeat right bottom; MARGIN: auto; WIDTH: 900px; PADDING-TOP: 5px; HEIGHT: 80px
+}
+UL.samenua {
+	FLOAT: left
+}
+UL.samenua LI {
+	DISPLAY: inline
+}
+.menuA:link {
+	BORDER-RIGHT: #717171 1px solid; PADDING-RIGHT: 17px; BORDER-TOP: #717171 1px solid; PADDING-LEFT: 17px; FONT-SIZE: 11px; BACKGROUND: #d1d9e2; FLOAT: left; BORDER-LEFT: #717171 1px solid; COLOR: #000000; MARGIN-RIGHT: 10px; PADDING-TOP: 8px; HEIGHT: 22px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.menuA:visited {
+	BORDER-RIGHT: #717171 1px solid; PADDING-RIGHT: 17px; BORDER-TOP: #717171 1px solid; PADDING-LEFT: 17px; FONT-SIZE: 11px; BACKGROUND: #d1d9e2; FLOAT: left; BORDER-LEFT: #717171 1px solid; COLOR: #000000; MARGIN-RIGHT: 10px; PADDING-TOP: 8px; HEIGHT: 22px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.menuA:hover {
+	BACKGROUND: #f8f8f8; COLOR: #000
+}
+#outmain {
+	MARGIN: auto; WIDTH: 908px; 
+PADDING-TOP: 5px
+}
+#samtop {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BACKGROUND: #f5f5f5; FLOAT: left; MARGIN: auto; BORDER-LEFT: #ddd 1px solid; WIDTH: 681px; BORDER-BOTTOM: #ddd 1px solid; HEIGHT: 180px
+}
+#samleft {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: auto auto auto 15px; BORDER-LEFT: #ddd 1px solid; WIDTH: 180px; PADDING-TOP: 10px; BORDER-BOTTOM: #ddd 1px solid; HEIGHT: 160px
+}
+#samleft H4 {
+	FONT-SIZE: 14px; LINE-HEIGHT: 180%
+}
+#samleft P {
+	LINE-HEIGHT: 180%
+}
+.samlogin {
+	MARGIN-TOP: 10px; TEXT-ALIGN: center
+}
+.samlogin A {
+	FONT-WEIGHT: 700
+}
+.samlogin A:hover {
+	BACKGROUND: #43a707; COLOR: #fff
+}
+#page {
+	MARGIN-TOP: 20px; FLOAT: left
+}
+#wrap {
+	border: 1px solid #ddd;
+    padding: 13px;
+    BACKGROUND: #fcfcfc; FLOAT: left; MARGIN: auto; WIDTH: 668px; 
+    WORD-WRAP: break-word
+}
+#sidebar {
+	FLOAT: right; MARGIN: auto 0px auto auto; 
+WIDTH: 199px;
+    height: 372px;
+}
+.sambar {
+	BORDER-RIGHT: #ddd 1px solid;  MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 10px; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid;
+    height: 255px;
+}
+#sidebar P {
+	TEXT-ALIGN: center
+}
+#sidebar P A {
+	MARGIN: 10px
+}
+#sidebar P.more {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 6px; TEXT-ALIGN: right
+}
+#sidebar TABLE {
+	WIDTH: 180px
+}
+#sidebar H2 {
+	PADDING-LEFT: 10px; FONT-SIZE: 12px; BACKGROUND: url(sbg.jpg) #fafafa; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; BORDER-BOTTOM: #ddd 1px solid
+}
+#sidebar LI {
+	DISPLAY: block; MARGIN-LEFT: -10px; OVERFLOW: hidden; WIDTH: 174px; 
+LINE-HEIGHT: 25px; BORDER-BOTTOM: #e1e1e1 1px dashed; HEIGHT: 24px
+}
+#sidebar LI SPAN {
+	COLOR: #666
+}
+#sidebar LI SPAN.num {
+	
+}
+.week {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #eee; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #aaa 2px solid; TEXT-ALIGN: center
+}
+.content {
+	FONT-SIZE: 12px; MARGIN: 15px 0px; WIDTH: 655px; LINE-HEIGHT: 180%; WORD-WRAP: break-word
+}
+.content P {
+	MARGIN: 15px 0px
+}
+.content UL {
+	MARGIN: 15px 22px; LIST-STYLE-TYPE: disc
+}
+.content OL {
+	MARGIN: 15px 30px; LIST-STYLE-TYPE: decimal
+}
+.needpwd {
+	BACKGROUND: #fff; PADDING-BOTTOM: 20px; MARGIN: 20px 0px; BORDER-BOTTOM: #ddd 1px solid
+}
+.posttitle {
+	CLEAR: both; MARGIN: 3px 0px 0px; FONT: bold 14px/22px verdana
+}
+.postdate {
+	FONT-SIZE: 11px; COLOR: #777
+}
+.postmetadata {
+	PADDING-BOTTOM: 15px; MARGIN: 10px 0px 15px; WIDTH: 655px; BORDER-BOTTOM: #ddd 1px solid; TEXT-ALIGN: right
+}
+#footer {
+	padding: 15px;
+    CLEAR: both; MARGIN-TOP: 20px; BACKGROUND: #BEC5F3; COLOR: #fff; TEXT-ALIGN: center;
+    left: 1px;
+    width: 1569px;
+}
+#footer A {
+	COLOR: #D2D2FF
+}
+#top {
+	FLOAT: left; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 12px; WIDTH: 655px; BORDER-BOTTOM: #ddd 1px solid
+}
+
+#top1 {
+	FLOAT: left;     WIDTH: 655px;   BORDER-BOTTOM: #ddd 1px solid
+}
+
+
+
+
+#top STRONG {
+	FLOAT: left
+}
+.formbox P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 12px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.codeimg {
+	PADDING-BOTTOM: 1px; VERTICAL-ALIGN: bottom; CURSOR: pointer
+}
+.title {
+	CLEAR: both; PADDING-RIGHT: 2px; PADDING-LEFT: 2px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 2px; FONT: bold 13px verdana; BORDER-LEFT: #ddd 6px solid; WIDTH: 645px; TEXT-INDENT: 5px; PADDING-TOP: 2px; BORDER-BOTTOM: #ddd 1px solid; POSITION: relative; HEIGHT: 18px
+}
+.formfield {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BACKGROUND: #fafafa; BORDER-LEFT: #ddd 1px solid; WIDTH: 124px; COLOR: #000; BORDER-BOTTOM: #ddd 1px solid
+}
+.formbutton {
+	BORDER-RIGHT: #bbb 1px solid; BORDER-TOP: #bbb 1px solid; FONT-SIZE: 12px; BACKGROUND: #fafafa; BORDER-LEFT: #ddd 4px solid; WIDTH: 50px; COLOR: #000; LINE-HEIGHT: 22px; BORDER-BOTTOM: #bbb 1px solid; HEIGHT: 22px
+}
+.curdate {
+	FONT-WEIGHT: 700; PADDING-BOTTOM: 10px; TEXT-ALIGN: center
+}
+.attach {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.attach-desc {
+	BORDER-RIGHT: #386792 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #386792 1px solid; PADDING-LEFT: 5px; BACKGROUND: #edf2f8; PADDING-BOTTOM: 5px; BORDER-LEFT: #386792 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #386792 1px solid
+}
+.tags {
+	LINE-HEIGHT: 26px
+}
+.art-title {
+	FONT-WEIGHT: 700; MARGIN-BOTTOM: 10px
+}
+#article-other {
+	FONT-WEIGHT: bold; MARGIN: 15px 0px; TEXT-ALIGN: center
+}
+#tburl {
+	MARGIN: 5px 0px 15px
+}
+.lesscontent {
+	CLEAR: both; DISPLAY: block; MARGIN: 5px 0px 15px; WIDTH: 650px; LINE-HEIGHT: 20px
+}
+.lessdate {
+	FONT-SIZE: 11px; MARGIN-BOTTOM: 12px; PADDING-BOTTOM: 12px; COLOR: #777; PADDING-TOP: 2px; BORDER-BOTTOM: #ddd 1px solid; TEXT-ALIGN: right
+}
+.list LI {
+	CLEAR: both; WIDTH: 630px; LINE-HEIGHT: 35px; BORDER-BOTTOM: #ddd 1px dashed
+}
+CODE {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ddd 1px solid; DISPLAY: block; PADDING-LEFT: 10px; BACKGROUND: #f8f8f8; PADDING-BOTTOM: 10px; MARGIN: 5px; OVERFLOW: auto; BORDER-LEFT: #ddd 3px solid; WIDTH: 620px; PADDING-TOP: 10px; BORDER-BOTTOM: #ddd 1px solid; FONT-FAMILY: "Courier New" , Courier; WHITE-SPACE: normal
+}
+.quote {
+	BORDER-RIGHT: #ccc 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: #ccc 1px dashed; PADDING-LEFT: 5px; BACKGROUND: #f4f4f4; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; BORDER-LEFT: #ccc 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.avatar {
+	BORDER-RIGHT: #d6e3ef 1px solid; BORDER-TOP: #d6e3ef 1px solid; BACKGROUND: #ebf3fb; BORDER-LEFT: #d6e3ef 1px solid; BORDER-BOTTOM: #d6e3ef 1px solid
+}
+.p_bar {
+	CLEAR: both; MARGIN: 15px 0px
+}
+.p_bar A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+.p_bar A:hover {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BACKGROUND: #fafafa; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; TEXT-DECORATION: none
+}
+.p_info {
+	BORDER-RIGHT: #dedeb8 1px solid; BORDER-TOP: #dedeb8 1px solid; BACKGROUND: #fafafa; BORDER-LEFT: #dedeb8 1px solid; MARGIN-RIGHT: 1px; BORDER-BOTTOM: #dedeb8 1px solid
+}
+.p_num {
+	BORDER-RIGHT: #dedeb8 1px solid; BORDER-TOP: #dedeb8 1px solid; BACKGROUND: #fff; BORDER-LEFT: #dedeb8 1px solid; MARGIN-RIGHT: 1px; BORDER-BOTTOM: #dedeb8 1px solid
+}
+.p_redirect {
+	BORDER-RIGHT: #dedeb8 1px solid; BORDER-TOP: #dedeb8 1px solid; FONT-WEIGHT: 700; FONT-SIZE: 12px; BACKGROUND: #fff; BORDER-LEFT: #dedeb8 1px solid; MARGIN-RIGHT: 1px; BORDER-BOTTOM: #dedeb8 1px solid
+}
+.p_curpage {
+	BORDER-RIGHT: #dedeb8 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #dedeb8 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: 700; BACKGROUND: #ffffd9; PADDING-BOTTOM: 2px; BORDER-LEFT: #dedeb8 1px solid; COLOR: #92a05a; MARGIN-RIGHT: 1px; PADDING-TOP: 2px; BORDER-BOTTOM: #dedeb8 1px solid
+}
+.linkover {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 20px; PADDING-TOP: 10px
+}
+.linkover LI {
+	FLOAT: left; MARGIN: 0px 10px; WIDTH: 100px; COLOR: #666; LINE-HEIGHT: 20px
+}
+.linkover LI.onelink {
+	MARGIN: 0px 10px 8px; WIDTH: 180px
+}
+.linkover LI A {
+	FONT-WEIGHT: 700
+}
+.linkgroup {
+	FONT-WEIGHT: 700; FONT-SIZE: 14px; MARGIN: 10px 0px 5px
+}
+H1 A {
+	TEXT-DECORATION: none
+}
+.cal_day1 A:hover {
+	TEXT-DECORATION: none
+}
+.cal_day2 A:hover {
+	TEXT-DECORATION: none
+}
+.posttitle A {
+	TEXT-DECORATION: none
+}
+.curdate A {
+	TEXT-DECORATION: none
+}
+.listtd A {
+	TEXT-DECORATION: none
+}
+.navlink LI.current_page_item A:hover {
+	TEXT-DECORATION: underline
+}
+.cal_day1 A {
+	TEXT-DECORATION: underline
+}
+.cal_day2 A {
+	TEXT-DECORATION: underline
+}
+.curdate A:hover {
+	TEXT-DECORATION: underline
+}
+.listtd A:hover {
+	TEXT-DECORATION: underline
+}
+#guestlink {
+	FLOAT: right
+}
+#top SPAN {
+	FLOAT: right
+}
+#sidebar UL LI IMG {
+	VERTICAL-ALIGN: middle
+}
+.p_bar * {
+	VERTICAL-ALIGN: middle
+}
+.title_ul{
+    height:10px;
+
+	height:20px;
+	background-color:#ebefee;
+	text-decoration:none;
+	margin-left:0;
+	font-size: large;
+   }
+   .title_list0{
+    float:left;
+    width:60%;
+	}	
+  .title_list1{
+    float:left;
+	width:15%;
+
+	}
+  .title_list2{
+    float:left;
+
+	width:25%;
+
+	}
